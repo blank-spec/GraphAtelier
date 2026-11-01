@@ -1,0 +1,58 @@
+[
+  {
+    "file": "Алгоритм Дейкстры 20 вариантов.xlsx",
+    "sha256": "a32c97c7fee72e83f45ca4442f1fb39c3aa94e20a27e34f0db2cba985ffec266",
+    "sheets": [
+      "W01",
+      "W02",
+      "W03",
+      "W04",
+      "W05",
+      "W06",
+      "W07",
+      "W08",
+      "W09",
+      "W10",
+      "W11",
+      "W12",
+      "W13",
+      "W14",
+      "W15",
+      "W16",
+      "W17",
+      "W18",
+      "W19",
+      "W20"
+    ],
+    "range": "B2:P16",
+    "convention": "row = source; column = target; zero = no edge"
+  },
+  {
+    "file": "Алгоритм Уоршелла 20 вариантов.xlsx",
+    "sha256": "265f74a0fea1eff1a26c9eb0d480a395aa1434cdf461cb0bc880acfab667783c",
+    "sheets": [
+      "G01",
+      "G02",
+      "G03",
+      "G04",
+      "G05",
+      "G06",
+      "G07",
+      "G08",
+      "G09",
+      "G10",
+      "G11",
+      "G12",
+      "G13",
+      "G14",
+      "G15",
+      "G16",
+      "G17",
+      "G18",
+      "G19",
+      "G20"
+    ],
+    "range": "B2:K11",
+    "convention": "row = source; column = target; zero = no edge"
+  }
+]
