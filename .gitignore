@@ -28,17 +28,6 @@
 *.user.*
 *.autosave
 
-# Compiler output
-*.exe
-*.dll
-*.obj
-*.o
-*.a
-*.lib
-*.pdb
-*.ilk
-*.exp
-
 # Runtime logs, language caches and temporary files
 *.log
 *.tmp
